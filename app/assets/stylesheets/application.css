@@ -14,4 +14,28 @@
  *= require_self
  */
 
- 
+ h1 {
+  color: rgb(240, 64, 94);
+  padding: 30px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ }
+
+ p {
+  padding-left: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ .button {
+  color: black;
+  padding: 5px;
+  display: inline-block;
+  background-color: pink;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-top: 10px;
+  border-color: black;
+ }
+
+ form {
+  padding-left: 30px;
+ }
